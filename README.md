@@ -53,3 +53,10 @@ Made with ❤️ using Python & Streamlit
 Add auto-suggestions using dropdown
 Include medicine images and icons
 Enable filters for pricing/type/manufacturer
+
+RESULTS:
+![image](https://github.com/user-attachments/assets/952506a0-0521-42f9-a14b-6f4f33409d76)
+![image](https://github.com/user-attachments/assets/7f3ff7e2-48e0-43af-9ad6-964ce653ccc2)
+
+
+
